@@ -1,0 +1,9 @@
+USING INSERTION SORT.
+.step 1:
+-create a variable of an array to hold all the  cards
+step 2:
+-pick the smallest card displace it with the card on index 0
+.step 3:
+-repeat step 2 until all the cards are sorted 
+step 4:
+-print result
